@@ -1,8 +1,3 @@
-Paste everything you wrote (from `## Setup` down to the Citation section) **directly after** the “Project Structure” block in your README.
-
-Your final `README.md` should look like this:
-
-```markdown
 # Hybrid Metaheuristic Feature Selection for Mammography
 
 This repository contains the complete, ready-to-run Python experimental codebase that implements the full pipeline described in the manuscript:
