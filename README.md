@@ -151,9 +151,12 @@ After completion, the key outputs will be:
 If you use this repository in academic work, please cite:
 
 > Alshreef BS, et al. Hybrid Metaheuristic Feature Selection for Enhanced Breast Cancer Detection in Digital Mammography: A Radiomics and Deep Learning Approach with Cross-Dataset Validation. [Journal name, year – to be updated after publication].
-```
 
-So in GitHub:  
-- Open `README.md`  
-- Paste everything above to replace the current content  
-- Add the commit message (e.g., “Extend README with setup and usage”) and **Commit directly to main**.
+## Citation and archival record
+
+A versioned snapshot of this repository is archived on Zenodo.
+
+- Version-specific DOI: `10.5281/zenodo.19401611`
+- Concept DOI (all versions): `10.5281/zenodo.19401610`
+
+Certain implementation aspects of this framework are related to a filed Saudi patent application by the author (Patent Application No. SA1020262200, filed on 17 March 2026). The application is currently awaiting formal examination.  
