@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this repository using the metadata below."
+title: "Hybrid-Metaheuristic-Mammography-AI"
+type: software
+authors:
+  - family-names: "Alshreef"
+    given-names: "Bandar Saad"
+    orcid: "https://orcid.org/0009-0009-9284-4262"
+repository-code: "https://github.com/bsalshreef/Hybrid-Metaheuristic-Mammography-AI"
+abstract: "Research code for hybrid metaheuristic feature selection combining GOA and CSA with radiomics and deep features for breast cancer detection in digital mammography."
+keywords:
+  - mammography
+  - breast cancer
+  - feature selection
+  - GOA
+  - CSA
+  - radiomics
+  - deep learning
+  - medical imaging
+license: "MIT"
+version: "v1.0.0"
+date-released: 2026-04-03
